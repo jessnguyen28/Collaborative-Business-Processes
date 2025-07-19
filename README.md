@@ -1,7 +1,5 @@
-# Collaborative-Business-Processes
+# The Negative Impacts of Social Media on Adolescents' Mental Health Project** 
 UTS Collaborative Business Processes Project
-
-**Project Name: The Negative Impacts of Social Media on Adolescents' Mental Health**
 
 ## Project Overview  
 This two-part project addressed the global mental health challenges female adolescents face from social media use. We applied stakeholder analysis, systems modelling, and collaborative decision-making to understand the root problem and propose meaningful solutions.
