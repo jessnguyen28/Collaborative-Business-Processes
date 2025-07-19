@@ -1,6 +1,9 @@
 # The Negative Impacts of Social Media on Adolescents' Mental Health Project** 
 **UTS Subject: Collaborative Business Processes**
 
+Project by Jessica Nguyen and 4 students
+Note: Full names and other sensitive data of peers I have worked with have been redacted for confidentiality purposes
+
 ## Project Overview  
 This two-part project addressed the global mental health challenges female adolescents face from social media use. We applied stakeholder analysis, systems modelling, and collaborative decision-making to understand the root problem and propose meaningful solutions.
 
@@ -48,4 +51,6 @@ This two-part project addressed the global mental health challenges female adole
   - Gantt Chart (Implementation Plan)  
 - **Final Presentation Slides (PDF)**
 
-Note: Full names and other sensitive data of peers I have worked with have been redacted for confidentiality purposes
+---
+
+This project was submitted as part of my Bachelor of Information Technology at the University of Technology Sydney (UTS).
