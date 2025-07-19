@@ -2,7 +2,7 @@
 **UTS Subject: Collaborative Business Processes (2024)**  
 Project by Jessica Nguyen and 5 peers
 
-Note: Full names and other sensitive data of peers I have worked with have been redacted for confidentiality purposes
+> *Note: Names and identifying details have been blacked out for confidentiality purposes.*
 
 ## Project Overview  
 This two-part project addressed the global mental health challenges female adolescents face from social media use. We applied stakeholder analysis, systems modelling, and collaborative decision-making to understand the root problem and propose meaningful solutions.
