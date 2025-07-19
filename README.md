@@ -1,7 +1,7 @@
 # The Negative Impacts of Social Media on Adolescents' Mental Health Project** 
 **UTS Subject: Collaborative Business Processes**
 
-Project by Jessica Nguyen and 4 students
+Project by Jessica Nguyen and 5 peers
 
 Note: Full names and other sensitive data of peers I have worked with have been redacted for confidentiality purposes
 
