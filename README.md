@@ -49,3 +49,5 @@ This two-part project addressed the global mental health challenges female adole
   - Business Model Canvas  
   - Gantt Chart (Implementation Plan)  
 - **Final Presentation Slides (PDF)**
+
+Note: Full names of the students I have worked with have been redacted for confidentiality purposes
