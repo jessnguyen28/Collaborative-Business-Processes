@@ -53,4 +53,4 @@ This two-part project addressed the global mental health challenges female adole
 
 ---
 
-This project was submitted as part of my Bachelor of Information Technology at the University of Technology Sydney (UTS).
+_This project was submitted as part of my Bachelor of Information Technology at the University of Technology Sydney (UTS)._
